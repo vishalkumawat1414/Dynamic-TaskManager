@@ -1,0 +1,33 @@
+Task Management App
+This is a simple task management application built with React.
+
+Setup
+
+Clone the repository:
+git clone <repository-url>
+
+Navigate to the project directory:
+cd task-management-app
+
+Install dependencies:
+npm install
+
+
+Running the App
+
+Start the development server:
+npm start
+
+Open the app in your browser:
+http://localhost:3000
+
+
+Usage
+Add tasks by entering task details in the input form.
+Drag and drop tasks between columns to change their status.
+Click on task actions (buttons or icons) to perform actions such as moving tasks or deleting tasks.
+
+Technologies Used
+React
+CSS
+LocalStorage (for data persistence)
